@@ -36,6 +36,13 @@ horizontal_alignment = 1
 [node name="Play" type="Button" parent="VBox" unique_id=1600797449]
 custom_minimum_size = Vector2(0, 48)
 layout_mode = 2
-text = "Play"
+text = "LEVEL 1"
+
+[node name="Play2" type="Button" parent="VBox" unique_id=357974035]
+custom_minimum_size = Vector2(0, 48)
+layout_mode = 2
+text = "LEVEL 2
+"
 
 [connection signal="pressed" from="VBox/Play" to="." method="_on_play_pressed"]
+[connection signal="pressed" from="VBox/Play2" to="." method="_on_play_2_pressed"]

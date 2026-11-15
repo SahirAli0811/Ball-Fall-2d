@@ -1,2 +1,10 @@
+res://scenes/MainMenu.tscn
+res://scripts/level.gd
+res://scenes/play_2.gd
+res://scripts/menu.gd
+res://level_2.tscn
+res://scenes/level_2.tscn
+res://game_2.tscn
 res://scenes/Game.tscn
-res://scripts/player.gd
+res://scenes/game_2.tscn
+res://scripts/level2.gd
